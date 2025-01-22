@@ -19,7 +19,36 @@ You can also analyze music with it!
 1. Press the ENTER key to take a reading. It will take a reading from when the key was last pressed. That way you can control how long it records for.
 2. See the bars!
 
-# INTERPRETATION (not scientific, for entertainment or experimental purposes only):
+# KEY FEATURES AND USAGE TIPS
+## Calibration:
+Bars are amplified by ~20% to emphasize differences. A "low" bar may still reflect minor activity.
+432Hz (Green) and 440Hz (Red) are subjective markers ("good" vs. "bad")—interpret cautiously.
+## Examples:
+- A low 432Hz (Green) + high 440Hz (Burgundy) might flag performative or insincere rhetoric.
+- High 741Hz (Violet) could indicate calculated messaging.
+## For Music/Media:
+- Classical/meditative tracks may spike 432Hz, 741Hz and 963Hz.
+- Aggressive genres (metal, hip-hop) might elevate 174Hz, 528Hz and 440Hz.
+
+# PROOF OF EFFECTIVENESS
+This is from a lecture from 10 minutes of Trump's speech during his inauguration day.
+Apparently the lecture can bypass lying and reveals the person's inner physiological response, regardless of what is acted. Fed with the numerical values of the bars.
+
+## Analysis:
+Endocrine Correlations:
+Stress Hormones (Cortisol/Adrenaline): Dominant peaks in upper frequencies (741Hz, 963Hz) and suppressed grounding frequencies (Root/Heart chakras) hypothetically align with heightened sympathetic nervous system (SNS) activation.  Elevated cortisol and adrenaline levels—common during high-stress  scenarios like testimony—could drive hyper-vigilance, cognitive focus,  and emotional detachment.
+
+Oxytocin & Relational Stress:  The 639Hz (Heart Chakra) peak might loosely correlate with  oxytocin-driven social bonding efforts, but chronic stress can suppress  oxytocin, exacerbating relational tension.
+
+Autonomic Nervous System (ANS) Dynamics:
+Sympathetic Overdrive:  High 741Hz (Throat) and 963Hz (Crown) could mirror SNS  dominance—prioritizing alertness, communication, and ideation over  emotional processing. This aligns with the "fight-or-flight" state,  where logical reasoning and performance override vulnerability.
+
+Parasympathetic Suppression: Low Root (174Hz=0) and Heart (432Hz=10) frequencies might reflect impaired parasympathetic (rest-and-digest) function, hindering  emotional regulation and grounding. Chronic SNS activation can  dysregulate the hypothalamic-pituitary-adrenal (HPA) axis, perpetuating  stress cycles.
+
+Neuroendocrine Feedback Loops:
+Cognitive-Emotional Dissonance:  The mismatch between high Crown/Throat activity and low Heart/Root  engagement could symbolize a stress-induced disconnect between rational  narratives (prefrontal cortex) and limbic/emotional processing  (amygdala). Prolonged stress may impair integration between these  systems.
+
+# INTERPRETATION (loose, not scientific, for entertainment or experimental purposes only):
 
 ## 174Hz: 
 Physical Energy Field = Bodily health, primal instincts, or grounding energy. May be a sign to inflammation levels, the state of homeostasis, tension, or general cortisol.
@@ -120,36 +149,6 @@ Crown/Pineal Gland = Spiritual awakening, idealism, transcendence.
     Hormonal: Excess melatonin → lethargy, sleep.
     Emotional: Fatigue, lack of motivation, social withdrawal.
     Symbolic: Overwhelm from "cosmic" energy or escapism.
-
-# KEY FEATURES AND USAGE TIPS
-## Calibration:
-Bars are amplified by ~20% to emphasize differences. A "low" bar may still reflect minor activity.
-432Hz (Green) and 440Hz (Red) are subjective markers ("good" vs. "bad")—interpret cautiously.
-## Examples:
-- A low 432Hz (Green) + high 440Hz (Burgundy) might flag performative or insincere rhetoric.
-- High 741Hz (Violet) could indicate calculated messaging.
-## For Music/Media:
-- Classical/meditative tracks may spike 432Hz, 741Hz and 963Hz.
-- Aggressive genres (metal, hip-hop) might elevate 174Hz, 528Hz and 440Hz.
-
-# PROOF OF EFFECTIVENESS
-This is from a lecture from 10 minutes of Trump's speech during his inauguration day.
-Apparently the lecture can bypass lying and reveals the person's inner physiological response, regardless of what is acted. Fed with the numerical values of the bars.
-
-## Analysis:
-Endocrine Correlations:
-Stress Hormones (Cortisol/Adrenaline): Dominant peaks in upper frequencies (741Hz, 963Hz) and suppressed grounding frequencies (Root/Heart chakras) hypothetically align with heightened sympathetic nervous system (SNS) activation.  Elevated cortisol and adrenaline levels—common during high-stress  scenarios like testimony—could drive hyper-vigilance, cognitive focus,  and emotional detachment.
-
-Oxytocin & Relational Stress:  The 639Hz (Heart Chakra) peak might loosely correlate with  oxytocin-driven social bonding efforts, but chronic stress can suppress  oxytocin, exacerbating relational tension.
-
-Autonomic Nervous System (ANS) Dynamics:
-Sympathetic Overdrive:  High 741Hz (Throat) and 963Hz (Crown) could mirror SNS  dominance—prioritizing alertness, communication, and ideation over  emotional processing. This aligns with the "fight-or-flight" state,  where logical reasoning and performance override vulnerability.
-
-Parasympathetic Suppression: Low Root (174Hz=0) and Heart (432Hz=10) frequencies might reflect impaired parasympathetic (rest-and-digest) function, hindering  emotional regulation and grounding. Chronic SNS activation can  dysregulate the hypothalamic-pituitary-adrenal (HPA) axis, perpetuating  stress cycles.
-
-Neuroendocrine Feedback Loops:
-Cognitive-Emotional Dissonance:  The mismatch between high Crown/Throat activity and low Heart/Root  engagement could symbolize a stress-induced disconnect between rational  narratives (prefrontal cortex) and limbic/emotional processing  (amygdala). Prolonged stress may impair integration between these  systems.
-
 
 
 
