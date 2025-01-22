@@ -31,7 +31,7 @@ Bars are amplified by ~20% to emphasize differences. A "low" bar may still refle
 - Aggressive genres (metal, hip-hop) might elevate 174Hz, 528Hz and 440Hz.
 
 # PROOF OF EFFECTIVENESS
-This is from a lecture from 10 minutes of Trump's speech during his inauguration day.
+This is from a 10 min lecture of Trump's speech during his inauguration day.
 Apparently the lecture can bypass lying and reveals the person's inner physiological response, regardless of what is acted. Fed with the numerical values of the bars.
 
 ## Analysis:
