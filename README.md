@@ -22,10 +22,10 @@ You can also analyze music with it!
 # KEY FEATURES AND USAGE TIPS
 ## Calibration:
 Bars are amplified by ~20% to emphasize differences. A "low" bar may still reflect minor activity.
-432Hz (Green) and 440Hz (Red) are subjective markers ("good" vs. "bad")—interpret cautiously.
+432Hz (Blue) and 440Hz (Burgundy) are subjective markers ("good" vs. "bad")—interpret cautiously.
 ## Examples:
-- A low 432Hz (Green) + high 440Hz (Burgundy) might flag performative or insincere rhetoric.
-- High 741Hz (Violet) could indicate calculated messaging.
+- A low 432Hz (Blue) + high 440Hz (Burgundy) might flag performative or insincere rhetoric.
+- High 741Hz (Cyan) could indicate calculated messaging.
 ## For Music/Media:
 - Classical/meditative tracks may spike 432Hz, 741Hz and 963Hz.
 - Aggressive genres (metal, hip-hop) might elevate 174Hz, 528Hz and 440Hz.
